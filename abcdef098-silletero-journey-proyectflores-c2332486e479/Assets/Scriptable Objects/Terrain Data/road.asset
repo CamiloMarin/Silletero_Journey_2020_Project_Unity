@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb2a8feeb3860ce43a0975a1d7d4bcf5, type: 3}
+  m_Name: road
+  m_EditorClassIdentifier: 
+  possibleTerrain:
+  - {fileID: 3419351814449702273, guid: 5b36345c1f29b6147b45d023fd96f9fe, type: 3}
+  - {fileID: 7746751282091921852, guid: f96254a2e2c5b2042a4330193d7d5b0c, type: 3}
+  maxInSuccession: 4
